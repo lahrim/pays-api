@@ -71,7 +71,7 @@ fetch("https://iso.lahrim.fr/alpha2/FR")
 "data": [
   {
     "id": 75,
-    "flag": 🇫🇷,
+    "flag": "🇫🇷",
     "alpha2": "FR",
     "alpha3": "FRA",
     "tld": ".fr",
