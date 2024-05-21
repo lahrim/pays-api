@@ -30,6 +30,7 @@ Si vous êtes bien connecté à la base de donnée, dans le terminal il doit aff
 Seul le https est pris en charge pour vos demandes.
 ```
 Get /countries
+Get /aleatoire
 Get /alpha2/FR
 Get /alpha3/FRA
 Get /alpha3/France
@@ -91,7 +92,8 @@ fetch("https://iso.lahrim.fr/alpha2/FR")
     "indicatif": "33",
     "phone_length": 9,
     "monetary": "Euro",
-    "iso_4217": "EUR"
+    "iso_4217": "EUR",
+    "symbol": "€"
   }
 ]
 ```

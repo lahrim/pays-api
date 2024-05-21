@@ -18,6 +18,22 @@ router.get("/countries", (req, res) => {
 })
 
 
+router.get("/aleatoire", (req, res) => {
+  try {
+    connection.query("select * from countries", (error, data) => {
+      if(error || data.length === 0) return res.json({ resultat: false })
+
+
+      const aleatoire = data[Math.floor(Math.random() * data.length)]
+
+      res.json({ resultat: true, total: 1, data: aleatoire })
+    })
+  } catch (error) {
+    res.status(500).json({ result: false })
+  }
+})
+
+
 router.get("/alpha2/:name?", (req, res) => {
   const { name } = req.params
 
