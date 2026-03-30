@@ -28,7 +28,7 @@ INSERT INTO countries (flag, alpha2, alpha3, tld, name, name_fr, name_en, region
 VALUES
 
 ("🇦🇩", "AD", "AND", ".ad", "Andorra", "Andorre", "Andorra", "Europe", "Europe", "Europe du Sud", "Southern Europe", "Andorrà", "Catalan", "Catalan", "ca", "ca_AD", "LTR", "376", 9, "Euro", "EUR", "€"),
-("🇦🇪", "AE", "ARE", ".ae", "الإمارات", "United Arab Emirates", "United Arab Emirates", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "العربية", "Arabe", "Arabic", "ar", "ar_AE", "RTL", "971", 8, "UAE dirham", "AED", "د.إ"),
+("🇦🇪", "AE", "ARE", ".ae", "الإمارات", "Émirats arabes unis", "United Arab Emirates", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "العربية", "Arabe", "Arabic", "ar", "ar_AE", "RTL", "971", 8, "UAE dirham", "AED", "د.إ"),
 ("🇦🇫", "AF", "AFG", ".af", "افغانستان", "Afghanistan", "Afghanistan", "Asie", "Asia", "Asie du Sud", "Southern Asia", "افغانستان", "Persan", "Persian", "fa", "fa_AF", "RTL", "93", 9, "Afghan afghani", "AFN", "؋"),
 ("🇦🇬", "AG", "ATG", ".ag", "Antigua and Barbuda", "Antigua-et-Barbuda", "Antigua and Barbuda", "Amérique", "Americas", "Antilles", "Caribbean", "Antigua and Barbuda", "Anglais", "English", "en", "en_AG", "LTR", "1-268", 10, "East Caribbean dollar", "XCD", "$"),
 ("🇦🇮", "AI", "AIA", ".ai", "Anguilla", "Anguilla", "Anguilla", "Amérique", "Americas", "Antilles", "Caribbean", "Anguilla", "Anglais", "English", "en", "en_AI", "LTR", "1-264", 10, "East Caribbean dollar", "XCD", "$"),
@@ -36,7 +36,7 @@ VALUES
 ("🇦🇲", "AM", "ARM", ".am", "Հայաստան", "Arménie", "Armenia", "Asie", "Asia", "Asie de l'Ouest", "Western Asia", "Հայերեն", "Arménien", "Armenian", "hy", "hy_AM", "LTR", "374", 8, "Armenian dram", "AMD", "֏"),
 ("🇦🇴", "AO", "AGO", ".ao", "Angola", "Angola", "Angola", "Afrique", "Africa", "Afrique centrale", "Middle Africa", "Português", "Portugais", "Portuguese", "pt", "pt_AO", "LTR", "244", 9, "Angolan kwanza", "AOA", "Kz"),
 ("🇦🇶", "AQ", "ATA", ".aq", "Antarctica", "Antarctique", "Antarctica", "Autre", "Others", "Antarctique", "Antarctica", NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
-("🇦🇷", "AR", "ARG", ".ar", "Argentina", "Argentina", "Argentina", "Amérique", "Americas", "Amérique du Sud", "South America", "Español", "Espagnol", "Spanish", "es", "es_AR", "LTR", "54", 9, "Argentine peso", "ARS", "$"),
+("🇦🇷", "AR", "ARG", ".ar", "Argentina", "Argentine", "Argentina", "Amérique", "Americas", "Amérique du Sud", "South America", "Español", "Espagnol", "Spanish", "es", "es_AR", "LTR", "54", 9, "Argentine peso", "ARS", "$"),
 ("🇦🇸", "AS", "ASM", ".as", "American Samoa", "Samoa américaines", "American Samoa", "Océanie", "Oceania", "Polynésie", "Polynesia", "English", "Anglais", "English", "en", "en_AS", "LTR", "1-684", 10, "United States dollar", "USD", "$"),
 ("🇦🇹", "AT", "AUT", ".at", "Österreich", "Autriche", "Austria", "Europe", "Europe", "Europe de l'Ouest", "Western Europe", "Deutsch", "Allemand", "German", "de", "de_AT", "LTR", "43", 10, "Euro", "EUR", "€"),
 ("🇦🇺", "AU", "AUS", ".au", "Australia", "Australie", "Australia", "Océanie", "Oceania", "Australie et Nouvelle-Zélande", "Australia and New Zealand", "English", "Anglais", "English", "en", "en_AU", "LTR", "61", 9, "Australian dollar", "AUD", "$"),
@@ -71,7 +71,7 @@ VALUES
 ("🇨🇩", "CD", "COD", ".cd", "République démocratique du Congo", "République démocratique du Congo", "Democratic Republic of the Congo", "Afrique", "Africa", "Afrique centrale", "Middle Africa", "Kikongo", "Français", "French", "fr", "fr_CD", "LTR", "243", 9, "Congolese franc", "CDF", "FC"),
 ("🇨🇫", "CF", "CAF", ".cf", "Ködörösêse tî Bêafrîka", "République centrafricaine", "Central African Republic", "Afrique", "Africa", "Afrique centrale", "Middle Africa", "Sango", "Français", "French", "fr", "fr_CF", "LTR", "236", 8, "Central African CFA franc", "XAF", "FCFA"),
 ("🇨🇬", "CG", "COG", ".cg", "République du Congo", "Congo", "Congo", "Afrique", "Africa", "Afrique centrale", "Middle Africa", "Kikongo", "Français", "French", "fr", "fr_CG", "LTR", "242", 8, "Central African CFA franc", "XAF", "FCFA"),
-("🇨🇭", "CH", "CHE", ".ch", "Schweiz", "Switzerland", "Switzerland", "Europe", "Europe", "Europe de l’Ouest", "Western Europe", "Deutsch", "Allemand", "German", "de", "de_CH", "LTR", "41", 10, "Swiss franc", "CHF", "CHF"),
+("🇨🇭", "CH", "CHE", ".ch", "Schweiz", "Suisse", "Switzerland", "Europe", "Europe", "Europe de l’Ouest", "Western Europe", "Deutsch", "Allemand", "German", "de", "de_CH", "LTR", "41", 10, "Swiss franc", "CHF", "CHF"),
 ("🇨🇮", "CI", "CIV", ".ci", "Côte d'Ivoire", "Côte d'Ivoire", "Ivory Coast", "Afrique", "Africa", "Afrique de l'Ouest", "Western Africa", "Dioula", "Français", "French", "fr", "fr_CI", "LTR", "225", 8, "West African CFA franc", "XOF", "CFA"),
 ("🇨🇰", "CK", "COK", ".ck", "Cook Islands", "Îles Cook", "Cook Islands", "Océanie", "Oceania", "Polynésie", "Polynesia", "English", "Anglais", "English", "en", "en_CK", "LTR", "682", 7, "New Zealand dollar", "NZD", "$"),
 ("🇨🇱", "CL", "CHL", ".cl", "Chile", "Chili", "Chile", "Amérique", "Americas", "Amérique du Sud", "South America", "Español", "Espagnol", "Spanish", "es", "es_CL", "LTR", "56", 9, "Chilean peso", "CLP", "$"),
@@ -95,10 +95,10 @@ VALUES
 
 ("🇪🇨", "EC", "ECU", ".ec", "Ecuador", "Équateur", "Ecuador", "Amérique", "Americas", "Amérique du Sud", "South America", "Español", "Espagnol", "Spanish", "es", "es_EC", "LTR", "593", 9, "United States dollar", "USD", "$"),
 ("🇪🇪", "EE", "EST", ".ee", "Eesti", "Estonie", "Estonia", "Europe", "Europe", "Europe du Nord", "Northern Europe", "Eesti", "Estonien", "Estonian", "et", "et_EE", "LTR", "372", 8, "Euro", "EUR", "€"),
-("🇪🇬", "EG", "EGY", ".eg", "مصر", "Egypt", "Egypt", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_EG", "RTL", "20", 9, "Egyptian pound", "EGP", "ج.م"),
+("🇪🇬", "EG", "EGY", ".eg", "مصر", "Égypte", "Egypt", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_EG", "RTL", "20", 9, "Egyptian pound", "EGP", "ج.م"),
 ("🇪🇭", "EH", "ESH", ".eh", "الصحراء الغربية", "Western Sahara", "Western Sahara", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_EH", "RTL", "212", 8, "Moroccan dirham", "MAD", "د.م."),
 ("🇪🇷", "ER", "ERI", ".er", "ኤርትራ", "Érythrée", "Eritrea", "Afrique", "Africa", "Afrique de l'Est", "Eastern Africa", "ትግርኛ", "Tigrinya", "Tigrinya", "ti", "ti_ER", "LTR", "291", 7, "Eritrean nakfa", "ERN", "Nfk"),
-("🇪🇸", "ES", "ESP", ".es", "España", "Spain", "Spain", "Europe", "Europe", "Europe du Sud", "Southern Europe", "Español", "Espagnol", "Spanish", "es", "es_ES", "LTR", "34", 9, "Euro", "EUR", "€"),
+("🇪🇸", "ES", "ESP", ".es", "España", "Espagne", "Spain", "Europe", "Europe", "Europe du Sud", "Southern Europe", "Español", "Espagnol", "Spanish", "es", "es_ES", "LTR", "34", 9, "Euro", "EUR", "€"),
 ("🇪🇹", "ET", "ETH", ".et", "ኢትዮጵያ", "Éthiopie", "Ethiopia", "Afrique", "Africa", "Afrique de l'Est", "Eastern Africa", "አማርኛ", "Amharique", "Amharic", "am", "am_ET", "LTR", "251", 8, "Ethiopian birr", "ETB", "Br"),
 
 ("🇫🇮", "FI", "FIN", ".fi", "Suomi", "Finlande", "Finland", "Europe", "Europe", "Europe du Nord", "Northern Europe", "Suomi", "Finnois", "Finnish", "fi", "fi_FI", "LTR", "358", 9, "Euro", "EUR", "€"),
@@ -109,7 +109,7 @@ VALUES
 ("🇫🇷", "FR", "FRA", ".fr", "France", "France", "France", "Europe", "Europe", "Europe de l'Ouest", "Western Europe", "Français", "Français", "French", "fr", "fr_FR", "LTR", "33", 9, "Euro", "EUR", "€"),
 
 ("🇬🇦", "GA", "GAB", ".ga", "Gabon", "Gabon", "Gabon", "Afrique", "Africa", "Afrique centrale", "Middle Africa", "Français", "Français", "French", "fr", "fr_FR", "LTR", "241", 8, "Central African CFA franc", "XAF", "FCFA"),
-("🇬🇧", "GB", "GBR", ".uk", "United Kingdom", "United Kingdom", "United Kingdom", "Europe", "Europe", "Europe du Nord", "Northern Europe", "English", "Anglais", "English", "en", "en_GB", "LTR", "44", 10, "British pound", "GBP", "£"),
+("🇬🇧", "GB", "GBR", ".uk", "United Kingdom", "Royaume-Uni", "United Kingdom", "Europe", "Europe", "Europe du Nord", "Northern Europe", "English", "Anglais", "English", "en", "en_GB", "LTR", "44", 10, "British pound", "GBP", "£"),
 ("🇬🇩", "GD", "GRD", ".gd", "Grenada", "Grenade", "Grenada", "Amérique", "Americas", "Antilles", "Caribbean", "English", "Anglais", "English", "en", "en_GD", "LTR", "1-473", 10, "East Caribbean dollar", "XCD", "EC$"),
 ("🇬🇪", "GE", "GEO", ".ge", "საქართველო", "Géorgie", "Georgia", "Asie", "Asia", "Asie de l'Ouest", "Western Asia", "ქართული", "ქართული", "Georgian", "ka", NULL, "LTR", "995", 9, "Georgian lari", "GEL", "₾"),
 ("🇬🇫", "GF", "GUF", ".gf", "Guyane", "Guyane française", "French Guiana", "Amérique", "Americas", "Amérique du Sud", "South America", "Français", "Français", "French", "fr", "fr_GF", "LTR", "594", 9, "Euro", "EUR", "€"),
@@ -231,12 +231,12 @@ VALUES
 ("🇶🇦", "QA", "QAT", ".qa", "قطر", "Qatar", "Qatar", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "قطري", "Arabe", "Arabic", "ar", "ar_QA", "RTL", "974", 8, "Riyal qatari", "QAR", "ر.ق"),
 
 ("🇷🇪", "RE", "REU", ".re", "La Réunion", "Réunion", "Réunion", "Afrique", "Africa", "Afrique de l’Est", "Eastern Africa", "Français", "Français", "French", "fr", "fr_RE", "LTR", "262", 9, "Euro", "EUR", "€"),
-("🇷🇴", "RO", "ROU", ".ro", "România", "România", "Romania", "Europe", "Europe", "Europe de l’Est", "Eastern Europe", "Română", "Roumain", "Romanian", "ro", "ro_RO", "LTR", "40", 9, "Leu roumain", "RON", "lei"),
+("🇷🇴", "RO", "ROU", ".ro", "România", "Roumanie", "Romania", "Europe", "Europe", "Europe de l’Est", "Eastern Europe", "Română", "Roumain", "Romanian", "ro", "ro_RO", "LTR", "40", 9, "Leu roumain", "RON", "lei"),
 ("🇷🇸", "RS", "SRB", ".rs", "Србија", "Serbie", "Serbia", "Europe", "Europe", "Europe du Sud-Est", "Southern Europe", "Српски", "Serbe", "Serbian", "sr", "sr_RS", "LTR", "381", 10, "Dinar serbe", "RSD", "дин."),
 ("🇷🇺", "RU", "RUS", ".ru", "Россия", "Russie", "Russian Federation", "Europe", "Europe", "Europe de l’Est", "Eastern Europe", "Русский", "Russe", "Russian", "ru", "ru_RU", "LTR", "7", 10, "Rouble russe", "RUB", "₽"),
 ("🇷🇼", "RW", "RWA", ".rw", "Rwanda", "Rwanda", "Rwanda", "Afrique", "Africa", "Afrique de l’Est", "Eastern Africa", "Ikinyarwanda", "Kinyarwanda", "Kinyarwanda", "rw", "rw_RW", "LTR", "250", 9, "Franc rwandais", "RWF", "RF"),
 
-("🇸🇦", "SA", "SAU", ".sa", "السعودية", "Saudi Arabia", "Saudi Arabia", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "العربية", "Arabe", "Arabic", "ar", "ar_SA", "RTL", "966", 8, "Riyal saoudien", "SAR", "﷼"),
+("🇸🇦", "SA", "SAU", ".sa", "السعودية", "Arabie saoudite", "Saudi Arabia", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "العربية", "Arabe", "Arabic", "ar", "ar_SA", "RTL", "966", 8, "Riyal saoudien", "SAR", "﷼"),
 ("🇸🇧", "SB", "SLB", ".sb", "Îles Salomon", "Solomon Islands", "Solomon Islands", "Océanie", "Oceania", "Mélanésie", "Melanesia", "Solomons", "Anglais", "English", "en", "en_SB", "LTR", "677", 7, "Dollar des Îles Salomon", "SBD", "$"),
 ("🇸🇨", "SC", "SYC", ".sc", "Seychelles", "Seychelles", "Seychelles", "Afrique", "Africa", "Afrique de l’Est", "Eastern Africa", "Français", "Français", "French", "fr", "fr_SC", "LTR", "248", 7, "Roupie des Seychelles", "SCR", "₨"),
 ("🇸🇩", "SD", "SDN", ".sd", "السودان", "Soudan", "Sudan", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_SD", "RTL", "249", 9, "Livre soudanaise", "SDG", "£"),
@@ -268,7 +268,7 @@ VALUES
 ("🇹🇰", "TK", "TKL", ".tk", "Tokelau", "Tokelau", "Tokelau", "Océanie", "Oceania", "Polynésie", "Polynesia", "English", "Anglais", "English", "en", "en_TK", "LTR", "690", 7, "New Zealand dollar", "NZD", "$"),
 ("🇹🇱", "TL", "TLS", ".tl", "Timor-Leste", "Timor-Leste", "Timor-Leste", "Asie", "Asia", "Asie du Sud-Est", "South-Eastern Asia", "Português", "Portugais", "Portuguese", "pt", "pt_TL", "LTR", "670", 8, "United States dollar", "USD", "$"),
 ("🇹🇲", "TM", "TKM", ".tm", "Türkmenistan", "Turkmenistan", "Turkmenistan", "Asie", "Asia", "Asie centrale", "Central Asia", "Туркмен", "Turkmène", "Turkmen", "tk", "tk_TM", "LTR", "993", 9, "Turkmenistan manat", "TMT", "T"),
-("🇹🇳", "TN", "TUN", ".tn", "تونس", "Tunisia", "Tunisia", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_TN", "RTL", "216", 8, "Tunisian dinar", "TND", "د.ت"),
+("🇹🇳", "TN", "TUN", ".tn", "تونس", "Tunisie", "Tunisia", "Afrique", "Africa", "Afrique du Nord", "Northern Africa", "العربية", "Arabe", "Arabic", "ar", "ar_TN", "RTL", "216", 8, "Tunisian dinar", "TND", "د.ت"),
 ("🇹🇴", "TO", "TON", ".to", "Tonga", "Tonga", "Tonga", "Océanie", "Oceania", "Polynésie", "Polynesia", "English", "Anglais", "English", "en", "en_TO", "LTR", "676", 7, "Tongan pa'anga", "TOP", "T$"),
 ("🇹🇷", "TR", "TUR", ".tr", "Türkiye", "Turquie", "Turkey", "Asie", "Asia", "Asie de l’Ouest", "Western Asia", "Türkçe", "Turc", "Turkish", "tr", "tr_TR", "LTR", "90", 9, "Turkish lira", "TRY", "₺"),
 ("🇹🇹", "TT", "TTO", ".tt", "Trinidad and Tobago", "Trinidad et Tobago", "Trinidad and Tobago", "Amérique", "Americas", "Caraïbes", "Caribbean", "English", "Anglais", "English", "en", "en_TT", "LTR", "+1-868", 10, "Trinidad and Tobago dollar", "TTD", "TT$"),
